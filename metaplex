@@ -1,0 +1,6 @@
+$ git clone https://github.com/metaplex-foundation/metaplex.git
+$ cd metaplex
+$ cd js
+$ yarn install
+$ yarn bootstrap
+$ yarn start
